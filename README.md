@@ -79,7 +79,7 @@ We built this project to solve the current problem of a user having to manually 
 
 To showcase the project, the following assets and chains were included in the project:
 
-<img src="images/dot100.png" style="max-width:50px">
+<img src="images/dot100.png" style="max-width:30px">
 <img src="images/aca100.png" style="max-width:50px">
 <img src="images/glmr100.png" style="max-width:50px">
 <img src="images/ausd100.png" style="max-width:50px">
