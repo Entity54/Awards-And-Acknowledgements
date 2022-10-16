@@ -207,6 +207,7 @@ The hackathon was a learning opportunity and a chance to dive into the Moonriver
 We built the XCM Explorer project to showcase how it is possible to analyse XCM transactions.
 
 Extensive use of SubQuery indexing was used within the project to show all of the metadata information involved in the transfer path of an XCM transaction.
+
 At the time of this hackathon, the XCM technology had only just been released and we were one of only a very small number of teams working on it within the Polkadot/Kusama ecosystem.
 
 To showcase the project, the following assets and chains were included in the project:
@@ -217,8 +218,7 @@ To showcase the project, the following assets and chains were included in the pr
 
 </i>
 <br>
-
-
+<br>
 Links To Awards And Acknowledgements:<br>
 
 * <a href="https://moonbeam.network/blog/moonriver-grant-hackathon-winners/" target="_blank">2022 Moonriver Grant Hackathon Winners</a>
