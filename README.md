@@ -108,7 +108,6 @@ Links To Awards And Acknowledgements:<br>
 * <a href="To Be Completed" target="_blank">Award Image</a>
 * <a href="https://ultcoin365.com/polkadots-north-america-hackathon-is-won-by-a-cross-chain-dot-staking-dapp/" target="_blank">Media Example 1</a> - <a href="https://en.blogtienao.com/xcm-dot-autostake-gianh-chien-thang-trong-cuoc-thi-hackathon-bac-my-cua-polkadot/" target="_blank">Media Example 2</a> - <a href="https://www.thecoinrepublic.com/2022/09/19/xcm-dot-autostake-winner-of-polkadot-hackathon-north-america/" target="_blank">Media Example 3</a> - <a href="https://thecoindesk.com/nhom-entity-54-gianh-chien-thang-tai-hackathon-cua-polkadot/" target="_blank">Media Example 4</a> - <a href="https://cryptoguidehub.com/xcm-dot-autostake-wins-polkadot-north-american-hackathon/" target="_blank">Media Example 5</a>
 <br>
-<br>
 
 ## Amsterdot Hackathon
 ***
@@ -189,7 +188,6 @@ Links To Awards And Acknowledgements:<br>
 * <a href="https://twitter.com/AcalaNetwork/status/1551777082920898560" target="_blank">Acala Tweet</a>
 * <a href="https://twitter.com/bsx_finance/status/1554027346914643968" target="_blank">Basilisk Tweet</a>
 <br>
-<br>
 
 ## Moonriver Grant Hackathon
 ***
@@ -225,7 +223,6 @@ Links To Awards And Acknowledgements:<br>
 * <a href="https://moonbeam.network/blog/moonriver-grant-hackathon-winners/" target="_blank">2022 Moonriver Grant Hackathon Winners</a>
 * <a href="https://twitter.com/MoonriverNW/status/1539337587852251136" target="_blank">Moonriver Tweet</a>
 <br>
-<br>
 
 ## ETH Denver Hackathon
 ***
@@ -248,7 +245,6 @@ Both projects submitted to this hackathon tried to showcase new blockchain techn
 Links To Awards And Acknowledgements:<br>
 
 * <a href="https://www.ethdenver.com/eden2022-virtual-winners" target="_blank">ETH Denver Virtual Winners</a>
-<br>
 <br>
 
 ## Darwinia Hackathon
@@ -274,7 +270,6 @@ We also built both back end and front end interfaces to showcase the integration
 Links To Awards And Acknowledgements:<br>
 
 * <a href="https://medium.com/darwinianetwork/meet-crab-online-hackathon-winners-9e35cb6fff78" target="_blank">Darwinia Crab Hackathon Winners Announcement</a>
-<br>
 <br>
 
 ## The Encode Polkadot Accelerator Program
@@ -319,7 +314,6 @@ Highlights included:
 Links To Awards And Acknowledgements:<br>
 
 * <a href="https://medium.com/encode-club/polkadot-accelerator-summary-3f35a7023dd2" target="_blank">Polkadot Accelerator Summary</a>
-<br>
 <br>
 
 ## The Encode Polkadot Hackathon
