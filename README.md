@@ -37,8 +37,8 @@ Therefore for this project we decided to take the harder development route of bu
 
 Our project showcased the ability to:
 
-* Browse the latest Proposals and Referenda
-* Vote and endorse on live Referenda 
+* Browse the latest proposals and referenda from a mobile device
+* Vote and endorse on live referenda from a mobile device 
 * Receive mobile PUSH notifications on various stages of the democratic process
 
 Technologies used during the mobile project included:
@@ -46,13 +46,10 @@ Technologies used during the mobile project included:
 * Subquery indexing on democracy data for displaying Propasal and Referenda information on the mobile device
 </i>
 <br>
-<br>
 
 Links To Awards And Acknowledgements:<br>
 
-
 * <a href="https://twitter.com/MoonbeamNetwork/status/1580679623561863169" target="_blank">Moonbeam Winners Tweet</a>
-<br>
 <br>
 
 ## Polkadot North America Hackathon
