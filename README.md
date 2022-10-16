@@ -138,10 +138,9 @@ In addition to XCM transfers the project also included the ability to:
 
 <br>
 Further Information<br>
+
 Two kinds of vertical message-passing transport protocols have been used in the project:
-
 * Upward Message Passing (UMP): This allows parachains to send messages to their relay chain.
-
 * Downward Message Passing (DMP): This allows the relay chain to pass messages down to one of its parachains.
 
 In addition, the project used Horizontal Relay-routed Message Passing (HMRP): This allows the parachains to parachain messaging on the same relay chain.
