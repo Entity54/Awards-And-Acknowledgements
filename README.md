@@ -151,13 +151,13 @@ In addition, the project used Horizontal Relay-routed Message Passing (HMRP): Th
 
 To showcase the project, the following assets and chains were included in the project:
 
-<img src="images/ksm100.png" style="max-width:50px">
-<img src="images/kar100.png" style="max-width:50px">
-<img src="images/movr100.png" style="max-width:50px">
-<img src="images/kint100.png" style="max-width:50px">
-<img src="images/pha100.png" style="max-width:50px">
-<img src="images/ausd100.png" style="max-width:50px">
-<img src="images/kbtc100.png" style="max-width:50px">
+<img src="images/ksm100.png" width="50">
+<img src="images/kar100.png" width="50">
+<img src="images/movr100.png" width="50">
+<img src="images/kint100.png" width="50">
+<img src="images/pha100.png" width="50">
+<img src="images/ausd100.png" width="50">
+<img src="images/kbtc100.png" width="50">
 </i>
 <br>
 <br>
@@ -215,9 +215,9 @@ At the time of this hackathon, the XCM technology had only just been released an
 
 To showcase the project, the following assets and chains were included in the project:
 
-<img src="images/ksm100.png" style="max-width:50px">
-<img src="images/kar100.png" style="max-width:50px">
-<img src="images/movr100.png" style="max-width:50px">
+<img src="images/ksm100.png" width="50">
+<img src="images/kar100.png" width="50">
+<img src="images/movr100.png" width="50">
 
 </i>
 <br>
