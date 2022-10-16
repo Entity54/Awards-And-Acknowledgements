@@ -252,7 +252,7 @@ Links To Awards And Acknowledgements:<br>
 
 ## Darwinia Hackathon
 ***
-<p> 37 Submissions
+<p> 37 Projects
 <br>
 <p>The Darwinia Crab Hackathon took place bewteen 5th January-3rd March 2022 and aimed to encourage developers to contribute ideas and early-stage projects related to Web3 Tools, DeFi, Metaverse, and NFT to the Darwinia Crab ecosystem. DVM(Darwinia Virtual Machine) is EVM(Ethereum Virtual Machine) compatible, which provides developers with the ability to rapidly port dapps from Ethereum and EVM-compatible chains to the Polkadot ecosystem. 
 
