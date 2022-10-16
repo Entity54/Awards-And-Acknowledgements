@@ -105,7 +105,7 @@ Links To Awards And Acknowledgements:<br>
 * <a href="https://www.youtube.com/watch?v=oD1Zg0PkXJg&t=950s" target="_blank">Award Presentation Video</a>
 * <a href="https://twitter.com/Polkadot/status/1571484017681379331" target="_blank">Polkadot Tweet</a>
 * <a href="https://twitter.com/MoonbeamNetwork/status/1555654398658977792" target="_blank">Moonbeam Tweet</a>
-* <a href="Polkadot-North-America-Prizes.jpg" target="_blank">Award Image</a>
+* <a href="images/Polkadot-North-America-Prizes.jpg" target="_blank">Award Image</a>
 * <a href="https://ultcoin365.com/polkadots-north-america-hackathon-is-won-by-a-cross-chain-dot-staking-dapp/" target="_blank">Media Example 1</a> - <a href="https://en.blogtienao.com/xcm-dot-autostake-gianh-chien-thang-trong-cuoc-thi-hackathon-bac-my-cua-polkadot/" target="_blank">Media Example 2</a> - <a href="https://www.thecoinrepublic.com/2022/09/19/xcm-dot-autostake-winner-of-polkadot-hackathon-north-america/" target="_blank">Media Example 3</a> - <a href="https://thecoindesk.com/nhom-entity-54-gianh-chien-thang-tai-hackathon-cua-polkadot/" target="_blank">Media Example 4</a> - <a href="https://cryptoguidehub.com/xcm-dot-autostake-wins-polkadot-north-american-hackathon/" target="_blank">Media Example 5</a>
 <br>
 
