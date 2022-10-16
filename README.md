@@ -3,13 +3,13 @@
 
 ## Table of Contents
 1. [Moonbeam Connected Contracts Hackathon](#moonbeam-connected-contracts-hackathon) - :trophy: 1st
-2. [Polkadot North America Hackathon](#polkadot-north-america-hackathon) - 1st-1st-1st-1st
-3. [Amsterdot Hackathon](#amsterdot-hackathon) - 1st-1st-1st
-4. [Moonriver Grand Hackathon](#moonriver-grant-hackathon) - 2nd-3rd
-5. [ETH Denver Hackathon](#eth-denver-hackathon) - 1st-1st
-6. [Darwinia Hackathon](#darwinia-hackathon) - 1st
+2. [Polkadot North America Hackathon](#polkadot-north-america-hackathon) - :trophy: 1st x 4
+3. [Amsterdot Hackathon](#amsterdot-hackathon) - :trophy: 1st x 3
+4. [Moonriver Grand Hackathon](#moonriver-grant-hackathon) - :trophy: 2nd
+5. [ETH Denver Hackathon](#eth-denver-hackathon) - :trophy: 1st x 2
+6. [Darwinia Hackathon](#darwinia-hackathon) - :trophy: 1st
 7. [The Encode Polkadot Accelerator Program](#the-encode-polkadot-accelerator-program)
-8. [The Encode Polkadot Hackathon](#the-encode-polkadot-hackathon) - 1st-3rd
+8. [The Encode Polkadot Hackathon](#the-encode-polkadot-hackathon) - :trophy: 1st
  
 <br>
 
@@ -21,7 +21,7 @@
 <p>The Moonbeam Connected Contracts Hackathon took place From August 15 to September 26th and was organised by  Moonbeam, Axelar, and Arrington Capital.
 <br><br>
 <h3 align="center">
-Improve The Governance UX Winner $7,500 - DemocraDot
+:trophy: Improve The Governance UX Winner $7,500 - DemocraDot
 </h3>
 <br>
 <i>
@@ -64,9 +64,9 @@ Links To Awards And Acknowledgements:<br>
 Focusing on Substrate, Polkadot, and Kusama, this hackathon was open to both individuals and teams anywhere in the world. As well as blockchain building, participants took advantage of mentoring hours and networking opportunities that were invaluable when starting new projects or building teams.
 <br><br>
 <h3 align="center">
-Overall Grand Prize Winner $30,000 - XCM DOT AUTOSTAKE
+:trophy: Overall Grand Prize Winner $30,000 - XCM DOT AUTOSTAKE
 <br>
-Build An XCM Related Tool For Moonbeam $5000 - XCM DOT AUTOSTAKE
+:trophy: Build An XCM Related Tool For Moonbeam $5000 - XCM DOT AUTOSTAKE
 </h3>
 <br>
 <i>
@@ -87,7 +87,7 @@ To showcase the project, the following assets and chains were included in the pr
 <br>
 <br>
 <h3 align="center">
-Acala EVM+ DApp For aUSD Yield - $5,000 - ACALA LDOT YIELD MANAGER
+:trophy: Acala EVM+ DApp For aUSD Yield - $5,000 - ACALA LDOT YIELD MANAGER
 </h3>
 <br>
 <i>
@@ -125,11 +125,11 @@ The results of the voting for the prize pool were presented live at Polkadot Dec
 </p>
 <br>
 <h3 align="center">
-Overall Grand Prize Winner $24,000 - MORPH FOR ACALA/BASILISK
+:trophy: Overall Grand Prize Winner $24,000 - MORPH FOR ACALA/BASILISK
 <br>
-Acala Cross Chain DApp Bounty Winner $5,000 - MORPH FOR ACALA
+:trophy: Acala Cross Chain DApp Bounty Winner $5,000 - MORPH FOR ACALA
 <br>
-Cross Chain Transfer SDK $10k BSX + $10k HDX - MORPH FOR BASILISK
+:trophy: Cross Chain Transfer SDK $10k BSX + $10k HDX - MORPH FOR BASILISK
 </h3>
 <br>
 <i>
@@ -162,9 +162,9 @@ To showcase the project, the following assets and chains were included in the pr
 <br>
 <br>
 <h3 align="center">
-Overall Prize Winner $9,000 - ACALA LDOT YIELD MANAGER
+:trophy: Overall Prize Winner $9,000 - ACALA LDOT YIELD MANAGER
 <br>
-Acala EVM+ DApp For aUSD Yield - $5,000 - ACALA LDOT YIELD MANAGER
+:trophy: Acala EVM+ DApp For aUSD Yield - $5,000 - ACALA LDOT YIELD MANAGER
 </h3>
 <br>
 <i>
@@ -202,8 +202,8 @@ The hackathon was a learning opportunity and a chance to dive into the Moonriver
 1/2 of all the hackathon rewards were distributed via Quadratic Funding (people's choice awards). 
 <br><br>
 <h3 align="center">
-XCM Cross Chain Explorer 2nd Prize $3,500 - XCMonitor<br>
-Huobi Incubator Best Overall 3rd Prize $4,000 - XCMonitor
+:trophy: XCM Cross Chain Explorer 2nd Prize $3,500 - XCMonitor<br>
+:trophy: Huobi Incubator Best Overall 3rd Prize $4,000 - XCMonitor
 </h3>
 <br>
 <i>
@@ -237,8 +237,8 @@ Links To Awards And Acknowledgements:<br>
 The virtual hackathon took place during February 2022 with various bounty competitions organised by the whole blockchain industry.
 <br><br>
 <h3 align="center">
-Acala Deploy A DApp On Acala EVM+ $4,000 - Entity54 DMS<br> 
-Moonbeam Build a DApp that uses XCM $3,750 - Entity54 ETH Denver MB
+:trophy: Acala Deploy A DApp On Acala EVM+ $4,000 - Entity54 DMS<br> 
+:trophy: Moonbeam Build a DApp that uses XCM $3,750 - Entity54 ETH Denver MB
 </h3>
 <br>
 <i>
@@ -263,7 +263,7 @@ Links To Awards And Acknowledgements:<br>
 Along with an EVM platform, Crab also provides a Substrate-to-Substrate bridge and Ethereum cross-chain bridge.  
 <br>
 <h3 align="center">
-Web3 Tools Track Merit Prize $8,000 - Token Buidl Ecosystem<br>
+:trophy: Web3 Tools Track Merit Prize $8,000 - Token Buidl Ecosystem<br>
 </h3>
 
 <br>
@@ -334,8 +334,8 @@ Links To Awards And Acknowledgements:<br>
 The purpose of the hackathon was to educate, support and catalyse the emergence of new talent into the blockchain space. Encode works across 100+ universities worldwide, running hackathons, accelerators, education series as well as investing and recruiting the best candidates to join leading blockchain companies.
 <br><br>
 <h3 align="center">
-Acala Build A DeFi DApp Category Winner $3,500 - T54<br>
-Best DApp Category 3rd Place $1,000 - T54
+:trophy: Acala Build A DeFi DApp Category Winner $3,500 - T54<br>
+:trophy: Best DApp Category 3rd Place $1,000 - T54
 </h3>
 <br>
 <i>
