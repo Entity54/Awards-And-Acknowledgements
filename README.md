@@ -257,7 +257,6 @@ Links To Awards And Acknowledgements:<br>
 
 Along with an EVM platform, Crab also provides a Substrate-to-Substrate bridge and Ethereum cross-chain bridge.  
 <br>
-<br>
 <h3 align="center">
 :trophy: Web3 Tools Track Merit Prize $8,000 - Token Buidl Ecosystem<br>
 </h3>
