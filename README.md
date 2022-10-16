@@ -114,7 +114,7 @@ Links To Awards And Acknowledgements:<br>
 ***
 <p>351 Participants 
 <br>
-<p>The AmsterDOT Hackathon was an 8-week long online event which kicked off on 20th April 2022 - the beginning of the AmsterDOT Conference, and lasted until 20th June 2022. 
+<p>The AmsterDOT Hackathon was an 8-week long online event which kicked off on 20th April 2022, the beginning of the AmsterDOT Conference, and lasted until 20th June 2022. 
 
 The aim of the hackathon was to create a team-overarching effort which incentivizes contributions to the Polkadot ecosystem. For this purpose, 20 bounties were submitted by 8 ecosystem teams: HydraDX, Basilisk, Acala, Astar, Interlay, Phala, Subsquid and Moonbeam. 
 
@@ -165,7 +165,7 @@ To showcase the project, the following assets and chains were included in the pr
 </h3>
 <br>
 <i>
-We built the Yield Manager makes it easy to:
+We built the Yield Manager to make it easy for the user to:
 
 * Manage any AUSD staking yield automatically at pre-determined times.
 * Autoswap AUSD yield for other assets, such as DOT and/or ACA.
@@ -192,6 +192,7 @@ Links To Awards And Acknowledgements:<br>
 
 ## Moonriver Grant Hackathon
 ***
+<p>xxx Participants
 <br>
 <p>The Moonriver Grant Hackathon took place from March 23th to May 20th and was open to all BUIDLers that were willing to build on Moonriver/Moonbase Alpha.
 The hackathon was a learning opportunity and a chance to dive into the Moonriver ecosystem with resources like workshops and office hours.<br>
