@@ -67,7 +67,8 @@ Focusing on Substrate, Polkadot, and Kusama, this hackathon was open to both ind
 </h3>
 <br>
 <i>
-We built this project to solve the current problem of a user having to manually manage their DOT asset holdings on multiple parachains if they wish to stake DOT for Liquid DOT in the Acala Ecosystem. The project achieves the following:<br>
+We built this project to solve the current problem of a user having to manually manage their DOT asset holdings on multiple parachains if they wish to stake DOT for Liquid DOT in the Acala Ecosystem.<br> 
+The project achieves the following:
 
 * A simple UI walks the user through the process of autostaking DOT from any parachain onto Acala for LDOT.
 * Unstaking LDOT Back to DOT is also facilitated.
