@@ -1,5 +1,4 @@
 # __Awards And Acknowledgements__
-<br>
 
 ## Table of Contents
 1. [Moonbeam Connected Contracts Hackathon](#moonbeam-connected-contracts-hackathon) - :trophy: 1st
@@ -106,7 +105,7 @@ Links To Awards And Acknowledgements:<br>
 * <a href="https://www.youtube.com/watch?v=oD1Zg0PkXJg&t=950s" target="_blank">Award Presentation Video</a>
 * <a href="https://twitter.com/Polkadot/status/1571484017681379331" target="_blank">Polkadot Tweet</a>
 * <a href="https://twitter.com/MoonbeamNetwork/status/1555654398658977792" target="_blank">Moonbeam Tweet</a>
-* <a href="To Be Completed" target="_blank">Award Image</a>
+* <a href="Polkadot-North-America-Prizes.jpg" target="_blank">Award Image</a>
 * <a href="https://ultcoin365.com/polkadots-north-america-hackathon-is-won-by-a-cross-chain-dot-staking-dapp/" target="_blank">Media Example 1</a> - <a href="https://en.blogtienao.com/xcm-dot-autostake-gianh-chien-thang-trong-cuoc-thi-hackathon-bac-my-cua-polkadot/" target="_blank">Media Example 2</a> - <a href="https://www.thecoinrepublic.com/2022/09/19/xcm-dot-autostake-winner-of-polkadot-hackathon-north-america/" target="_blank">Media Example 3</a> - <a href="https://thecoindesk.com/nhom-entity-54-gianh-chien-thang-tai-hackathon-cua-polkadot/" target="_blank">Media Example 4</a> - <a href="https://cryptoguidehub.com/xcm-dot-autostake-wins-polkadot-north-american-hackathon/" target="_blank">Media Example 5</a>
 <br>
 
@@ -191,7 +190,7 @@ Links To Awards And Acknowledgements:<br>
 
 ## Moonriver Grant Hackathon
 ***
-<p>xxx Participants
+<p>41 Projects
 <br>
 <p>The Moonriver Grant Hackathon took place from March 23th to May 20th and was open to all BUIDLers that were willing to build on Moonriver/Moonbase Alpha.
 The hackathon was a learning opportunity and a chance to dive into the Moonriver ecosystem with resources like workshops and office hours.<br>
@@ -219,6 +218,7 @@ To showcase the project, the following assets and chains were included in the pr
 </i>
 <br>
 <br>
+
 Links To Awards And Acknowledgements:<br>
 
 * <a href="https://moonbeam.network/blog/moonriver-grant-hackathon-winners/" target="_blank">2022 Moonriver Grant Hackathon Winners</a>
@@ -227,6 +227,7 @@ Links To Awards And Acknowledgements:<br>
 
 ## ETH Denver Hackathon
 ***
+<p>159 Projects
 <br>
 <p>ETHDenver is an annual ethereum-focused event dedicated to hacking and networking.<br>
 The virtual hackathon took place during February 2022 with various bounty competitions organised by the whole blockchain industry.
@@ -279,7 +280,7 @@ Links To Awards And Acknowledgements:<br>
 <p>December 2021 - February 2022
 <br>
 <p>The Polkadot Accelerator Program was a 10-week, online accelerator taking the best hackathon and early-stage projects worldwide and helping them take the leap to become fully-fledged startups.
-<br><br>
+<br>
 
 The structure of the Accelerator included the following:
 
