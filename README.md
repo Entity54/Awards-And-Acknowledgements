@@ -47,7 +47,7 @@ The project achieves the following:
 
 To showcase the project, the following assets and chains were included in the project:<br>
 
-<img src="images/dot100.png" width="50">
+<img src="images/astr100.png" width="50">
 <br>
 </i>
 <br>
