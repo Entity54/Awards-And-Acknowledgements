@@ -1,15 +1,59 @@
 # __Awards And Acknowledgements__
 
 ## Table of Contents
-1. [Moonbeam Connected Contracts Hackathon](#moonbeam-connected-contracts-hackathon) - :trophy: 1st
-2. [Polkadot North America Hackathon](#polkadot-north-america-hackathon) - :trophy: 1st x 4
-3. [Amsterdot Hackathon](#amsterdot-hackathon) - :trophy: 1st x 3
-4. [Moonriver Grand Hackathon](#moonriver-grant-hackathon) - :trophy: 2nd
-5. [ETH Denver Hackathon](#eth-denver-hackathon) - :trophy: 1st x 2
-6. [Darwinia Hackathon](#darwinia-hackathon) - :trophy: 1st
-7. [The Encode Polkadot Accelerator Program](#the-encode-polkadot-accelerator-program)
-8. [The Encode Polkadot Hackathon](#the-encode-polkadot-hackathon) - :trophy: 1st
+1. [Polkadot Europe Hackathon](#polkadot-europe-hackathon) - :trophy: 1st :trophy: 2nd 
+2. [Moonbeam Connected Contracts Hackathon](#moonbeam-connected-contracts-hackathon) - :trophy: 1st
+3. [Polkadot North America Hackathon](#polkadot-north-america-hackathon) - :trophy: 1st x 4
+4. [Amsterdot Hackathon](#amsterdot-hackathon) - :trophy: 1st x 3
+5. [Moonriver Grand Hackathon](#moonriver-grant-hackathon) - :trophy: 2nd
+6. [ETH Denver Hackathon](#eth-denver-hackathon) - :trophy: 1st x 2
+7. [Darwinia Hackathon](#darwinia-hackathon) - :trophy: 1st
+8. [The Encode Polkadot Accelerator Program](#the-encode-polkadot-accelerator-program)
+9. [The Encode Polkadot Hackathon](#the-encode-polkadot-hackathon) - :trophy: 1st
  
+<br>
+
+## Polkadot Europe Hackathon
+***
+<p>60 Project Finalists
+<p>The Polkadot Hackathon Global Series North America Edition was the third in a series of global hackathons that brought the cutting edge of blockchain to the global community.
+<br
+This time a networking event – dotSocial, was included at the end of the hackathon in Paris. The finalists of Polkadot Hackathon Global Series: Europe Edition were be flown to Paris to attend and present their projects on stage. It was the perfect opportunity to network with a global community of developers to make lasting connections in person.
+<br>
+We submitted an entry into Category 2: ink! Smart Contracts.
+ink! is an up-and-coming Rust-based embedded programming language for writing smart contracts for blockchains built with the Substrate framework. 
+dApps that run ink! smart contracts are performant, safe, and flexible.
+ <br>
+<h3 align="center">
+:trophy: Overall ink! Smart Contracts 2nd Prize Winner $10,000 - SMARTPAY
+<br>
+:trophy: Build A Defi dApp With ink! 1st Prize Winner $5,000 - SMARTPAY
+</h3>
+<br>
+<i>
+We built this project to highlight the inefficiencies of the current Polkadot Treasury system, when applicants apply for an amount of DOT funding based on their actual requirements of a fixed amount of FIAT to fulfill their proposal.
+Of the 40 DOT Treasury proposals submitted in the first 3 months of 2023, 36 projects required a fixed amount of USD, 4 required a fixed amount of Euros and none of them required a fixed amount of DOT.<br><br>
+This meant that between the date of their Treasury application until the date that the project needed to spend the funds, the DOT was subject to market price fluctuations, resulting in either an overpayment to the project or an underpayment, meaning the project returned to the Treasury for additional top-up requests.<br>
+The lack of a hedging mechanism or some management of the payment process is costing the Treasury hundreds of thousands of dollars each year, leading to inefficient overspending and could even encourage rate speculation by the project applicants themselves.<br><br>
+The project achieves the following:
+
+* An integration with governance applications to allow the user to select when and how they require any approved funds.
+* Swap any native assets to stable or hold native assets on account until a future date or event.
+* Upon that date release the funds to one or many receivers including any final asset swaps if requested.
+* The UI also provides the project Treasury with the ability to monitor FIAT and Native asset liabilities on a 2, 7 & 30 Day rolling basis
+* Excess funds returned to the Treasury on a periodic basis.
+* The use cases are large as the protocol could be used by any project or parachain that makes payments to the community.
+* The project makes extensive use of swaps and ink! smart contracts.
+
+To showcase the project, the following assets and chains were included in the project:<br>
+
+<img src="images/dot100.png" width="50">
+<br>
+</i>
+<br>
+Links To Awards And Acknowledgements:<br><br>
+
+* <a href="https://youtu.be/01tfFc1sRqA" target="_blank">Finals Night In Paris - Pitch Video</a>
 <br>
 
 
